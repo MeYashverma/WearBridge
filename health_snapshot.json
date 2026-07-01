@@ -1,42 +1,42 @@
 {
-  "id": "a0e28211-eff9-41ec-a48b-53d430993bf7",
-  "timestamp": 1782908455218,
+  "id": "a529c350-61f1-4dae-9b48-cf3e2f7c4149",
+  "timestamp": 1782908819788,
   "activity": {
-    "stepsCount": 4325,
-    "distanceMeters": 3176.25,
+    "stepsCount": 4668,
+    "distanceMeters": 3433.5,
     "floorsClimbed": 12,
-    "caloriesBurned": 183.37500000000003,
-    "activeCalories": 96.87500000000001,
+    "caloriesBurned": 198.81000000000006,
+    "activeCalories": 105.44999999999999,
     "workoutDurationMinutes": 45.0,
     "workoutType": "Outdoor Running",
-    "lastExerciseSessionTime": 1782894055218
+    "lastExerciseSessionTime": 1782894419788
   },
   "heart": {
-    "heartRateBpm": 83,
+    "heartRateBpm": 71,
     "restingHeartRateBpm": 62,
     "bloodOxygenPercentage": 98,
     "respiratoryRatePm": 12,
-    "stressScore": 18,
+    "stressScore": 38,
     "vo2Max": 48.5
   },
   "sleep": {
-    "sleepStartTime": 1782879655218,
-    "sleepEndTime": 1782904855218,
-    "deepSleepMinutes": 119,
-    "lightSleepMinutes": 256,
-    "remSleepMinutes": 83,
-    "awakeMinutes": 20,
-    "sleepScore": 85
+    "sleepStartTime": 1782880019787,
+    "sleepEndTime": 1782905219787,
+    "deepSleepMinutes": 117,
+    "lightSleepMinutes": 254,
+    "remSleepMinutes": 84,
+    "awakeMinutes": 22,
+    "sleepScore": 82
   },
   "body": {
-    "weightKg": 78.51,
+    "weightKg": 78.62,
     "heightCm": 181.0,
-    "bodyFatPercentage": 16.14
+    "bodyFatPercentage": 16.23
   },
   "device": {
-    "connectedWearableName": "Apple Watch Ultra 2 (Ready)",
-    "batteryPercentage": 82,
-    "lastSyncTimestamp": 1782908335218,
+    "connectedWearableName": "Xiaomi Smart Band 8",
+    "batteryPercentage": 79,
+    "lastSyncTimestamp": 1782908699788,
     "deviceModel": "M2239B1",
     "manufacturer": "Xiaomi Inc."
   }
