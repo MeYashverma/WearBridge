@@ -1,42 +1,42 @@
 {
-  "id": "a529c350-61f1-4dae-9b48-cf3e2f7c4149",
-  "timestamp": 1782908819788,
+  "id": "9fc8aa88-86d3-4fae-abd5-dc7fe4d423b1",
+  "timestamp": 1782908888595,
   "activity": {
-    "stepsCount": 4668,
-    "distanceMeters": 3433.5,
+    "stepsCount": 4263,
+    "distanceMeters": 3129.75,
     "floorsClimbed": 12,
-    "caloriesBurned": 198.81000000000006,
-    "activeCalories": 105.44999999999999,
+    "caloriesBurned": 180.585,
+    "activeCalories": 95.325,
     "workoutDurationMinutes": 45.0,
     "workoutType": "Outdoor Running",
-    "lastExerciseSessionTime": 1782894419788
+    "lastExerciseSessionTime": 1782894488594
   },
   "heart": {
-    "heartRateBpm": 71,
+    "heartRateBpm": 69,
     "restingHeartRateBpm": 62,
     "bloodOxygenPercentage": 98,
-    "respiratoryRatePm": 12,
-    "stressScore": 38,
+    "respiratoryRatePm": 15,
+    "stressScore": 25,
     "vo2Max": 48.5
   },
   "sleep": {
-    "sleepStartTime": 1782880019787,
-    "sleepEndTime": 1782905219787,
-    "deepSleepMinutes": 117,
-    "lightSleepMinutes": 254,
-    "remSleepMinutes": 84,
+    "sleepStartTime": 1782880088594,
+    "sleepEndTime": 1782905288594,
+    "deepSleepMinutes": 122,
+    "lightSleepMinutes": 246,
+    "remSleepMinutes": 86,
     "awakeMinutes": 22,
-    "sleepScore": 82
+    "sleepScore": 85
   },
   "body": {
-    "weightKg": 78.62,
+    "weightKg": 78.4,
     "heightCm": 181.0,
-    "bodyFatPercentage": 16.23
+    "bodyFatPercentage": 16.2
   },
   "device": {
     "connectedWearableName": "Xiaomi Smart Band 8",
-    "batteryPercentage": 79,
-    "lastSyncTimestamp": 1782908699788,
+    "batteryPercentage": 81,
+    "lastSyncTimestamp": 1782908768594,
     "deviceModel": "M2239B1",
     "manufacturer": "Xiaomi Inc."
   }
