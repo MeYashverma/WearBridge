@@ -1,42 +1,42 @@
 {
-  "id": "9fc8aa88-86d3-4fae-abd5-dc7fe4d423b1",
-  "timestamp": 1782908888595,
+  "id": "27584184-2f07-468c-910d-507e9bd79d93",
+  "timestamp": 1782908968543,
   "activity": {
-    "stepsCount": 4263,
-    "distanceMeters": 3129.75,
+    "stepsCount": 4408,
+    "distanceMeters": 3238.5,
     "floorsClimbed": 12,
-    "caloriesBurned": 180.585,
-    "activeCalories": 95.325,
+    "caloriesBurned": 187.11,
+    "activeCalories": 98.95,
     "workoutDurationMinutes": 45.0,
     "workoutType": "Outdoor Running",
-    "lastExerciseSessionTime": 1782894488594
+    "lastExerciseSessionTime": 1782894568543
   },
   "heart": {
-    "heartRateBpm": 69,
+    "heartRateBpm": 77,
     "restingHeartRateBpm": 62,
-    "bloodOxygenPercentage": 98,
-    "respiratoryRatePm": 15,
-    "stressScore": 25,
+    "bloodOxygenPercentage": 99,
+    "respiratoryRatePm": 14,
+    "stressScore": 47,
     "vo2Max": 48.5
   },
   "sleep": {
-    "sleepStartTime": 1782880088594,
-    "sleepEndTime": 1782905288594,
-    "deepSleepMinutes": 122,
-    "lightSleepMinutes": 246,
+    "sleepStartTime": 1782880168543,
+    "sleepEndTime": 1782905368543,
+    "deepSleepMinutes": 112,
+    "lightSleepMinutes": 242,
     "remSleepMinutes": 86,
-    "awakeMinutes": 22,
-    "sleepScore": 85
+    "awakeMinutes": 21,
+    "sleepScore": 86
   },
   "body": {
-    "weightKg": 78.4,
+    "weightKg": 78.39,
     "heightCm": 181.0,
-    "bodyFatPercentage": 16.2
+    "bodyFatPercentage": 16.16
   },
   "device": {
-    "connectedWearableName": "Xiaomi Smart Band 8",
-    "batteryPercentage": 81,
-    "lastSyncTimestamp": 1782908768594,
+    "connectedWearableName": "Galaxy Watch 6 (Authorized)",
+    "batteryPercentage": 78,
+    "lastSyncTimestamp": 1782908848543,
     "deviceModel": "M2239B1",
     "manufacturer": "Xiaomi Inc."
   }
